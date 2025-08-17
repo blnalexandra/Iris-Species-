@@ -3,7 +3,6 @@ Simple ML project using classification to classify the species of iris flowers b
 
 ### What I used
 - Label encoder for the species
-- Dropped "SepalWidthCm" as it badly influences the accuracy of the model (seen on the correlation map)
 - Used Decision Tree Classifier
 
 ### Scores
