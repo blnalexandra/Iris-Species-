@@ -9,7 +9,7 @@ Simple ML project using classification to classify the species of iris flowers b
 - Since the Iris dataset is small, the model was overfitting so I used cross validation
 - Average performace: ~0.96
 - Variation: ~7%
-- 
+
 ### Notes
 - Simple project for practicing syntax
 - Dataset from Kaggle: Iris Species
